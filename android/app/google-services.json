@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527419070527",
+    "project_id": "atozpoint-41217",
+    "storage_bucket": "atozpoint-41217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527419070527:android:95eaf6d926d30bc241c08a",
+        "android_client_info": {
+          "package_name": "com.a2zpoint.atozpoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOPgILgoYP2z3vVYrVO3SVnbBmJDbMnWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
